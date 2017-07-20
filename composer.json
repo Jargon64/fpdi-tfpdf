@@ -1,9 +1,9 @@
 {
-  "name": "jargon64/fpdi-tfpdf",
+  "name": "Jargon64/fpdi-tfpdf",
   "version": "1.0",
   "description": "fpdi-tfpdf",
   "keywords": ["fpdi", "tfpdf", "pdf", "fpdf"],
-  "homepage": "https://github.com/jargon64/fpdi-tfpdf",
+  "homepage": "https://github.com/Jargon64/fpdi-tfpdf",
   "type": "library",
   "license": "MIT",
   "authors": [
