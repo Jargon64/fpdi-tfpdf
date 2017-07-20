@@ -20,6 +20,6 @@
   "require": {
     "php": ">= 5.5",
     "ext-mbstring": "*",
-    "docnet/tfpdf": "^2.0"
+    "docnet/tfpdf": "^1.25"
   }
 }
