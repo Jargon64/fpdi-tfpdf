@@ -1,0 +1,25 @@
+{
+  "name": "binaryprotocol/fpdi-tfpdf",
+  "version": "1.0",
+  "description": "fpdi-tfpdf",
+  "keywords": ["fpdi", "tfpdf", "pdf", "fpdf"],
+  "homepage": "http://www.binaryprotocol.co.uk",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "James Jarman",
+      "email": "james@binaryprotocol.co.uk"
+    }
+  ],
+  "autoload": {
+    "classmap": [
+      "fpdi_bridge.php"
+    ]
+  },
+  "require": {
+    "php": ">= 5.5",
+    "ext-mbstring": "*",
+    "docnet/tfpdf": "^2.0"
+  }
+}
